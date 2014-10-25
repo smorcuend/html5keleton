@@ -1,0 +1,1272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg-c",
+				"background-color"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"project",
+				"projectName	save-as.js"
+			],
+			[
+				"boar",
+				"boardConfig	board.js"
+			],
+			[
+				"board",
+				"boardAppSerialComm(message, params)	board.js"
+			],
+			[
+				"workspace",
+				"workspaceLayout	controller.js"
+			],
+			[
+				"re",
+				"req	require"
+			],
+			[
+				"unlo",
+				"unlockFunctionality()	program.js"
+			],
+			[
+				"blink",
+				"blinkProgram	program.js"
+			],
+			[
+				"getX",
+				"getXml()	workspace.js"
+			],
+			[
+				"projec",
+				"projectInfo	save-actionbar.js"
+			],
+			[
+				"selec",
+				"selected(elem)	jquery-1.3.2.js"
+			],
+			[
+				"saveDirec",
+				"savedirectoryListItemView	save-directory-list.js"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"Open",
+				"OpenLayout	controller.js"
+			],
+			[
+				"progre",
+				"progressActive"
+			],
+			[
+				"getBook",
+				"getBookmarks"
+			],
+			[
+				"ad",
+				"adData"
+			],
+			[
+				"curre",
+				"currentPath"
+			],
+			[
+				"set",
+				"setLastRP"
+			],
+			[
+				"initial",
+				"initialTrackInfo"
+			],
+			[
+				"Chapter",
+				"ChapterManager"
+			],
+			[
+				"current",
+				"currentChapter"
+			],
+			[
+				"Chapt",
+				"ChapterManager"
+			],
+			[
+				"res",
+				"restoreRP"
+			],
+			[
+				"Step",
+				"StepManager"
+			],
+			[
+				"Book",
+				"BookmarkManager"
+			],
+			[
+				"bookmarks",
+				"bookmarksInChapter"
+			],
+			[
+				"get",
+				"getBookmarksInChapter"
+			],
+			[
+				"book",
+				"bookmarksInChapter"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"obj",
+				"objTarget"
+			],
+			[
+				"candidate",
+				"candidateTrack"
+			],
+			[
+				"perce",
+				"percentageToBeTracked"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"notes",
+				"notes2Paint"
+			],
+			[
+				"candida",
+				"candidateTrack"
+			],
+			[
+				"last",
+				"lastTrack"
+			],
+			[
+				"conflicti",
+				"conflictiveNodes"
+			],
+			[
+				"cofli",
+				"conflictiveNodes"
+			],
+			[
+				"first",
+				"firstNodeInfo"
+			],
+			[
+				"note",
+				"noteInfo"
+			],
+			[
+				"sortL",
+				"sortList"
+			],
+			[
+				"un",
+				"unshift"
+			],
+			[
+				"init",
+				"initPath"
+			],
+			[
+				"for",
+				"for	JS - For loop"
+			],
+			[
+				"node",
+				"nodeListSorted"
+			],
+			[
+				"list",
+				"listOfNotes"
+			],
+			[
+				"sort",
+				"_sortConflictiveNodesInDOM"
+			],
+			[
+				"elemen",
+				"element2Compare"
+			],
+			[
+				"D",
+				"DOCUMENT_POSITION_PRECEDING"
+			],
+			[
+				"conflic",
+				"conflictiveNodeList"
+			],
+			[
+				"conflict",
+				"conflictiveNodes"
+			],
+			[
+				"ini",
+				"initPath"
+			],
+			[
+				"confli",
+				"conflictiveNodes"
+			],
+			[
+				"nodesIn",
+				"nodesInRange"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"read",
+				"readingRange"
+			],
+			[
+				"textAre",
+				"textareaValue"
+			],
+			[
+				"getNotes",
+				"getNotesInChapter"
+			],
+			[
+				"notesIn",
+				"notesInChapter"
+			],
+			[
+				"tmp",
+				"tmpParent"
+			],
+			[
+				"custom",
+				"customSelected"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"super",
+				"superSelection"
+			],
+			[
+				"positio",
+				"positionOfFEonJunkNode"
+			],
+			[
+				"sa",
+				"saveIndex"
+			],
+			[
+				"id",
+				"IdNote"
+			],
+			[
+				"lastN",
+				"lastNoteActiveId"
+			],
+			[
+				"las",
+				"lastUpdated"
+			],
+			[
+				"is",
+				"isJunkedParentEl"
+			],
+			[
+				"closes",
+				"closestSelector"
+			],
+			[
+				"close",
+				"closestModal"
+			],
+			[
+				"clos",
+				"closestSelector"
+			],
+			[
+				"modal",
+				"modalSelectorVisible"
+			],
+			[
+				"book-notes__",
+				"book-notes__modal"
+			],
+			[
+				"book-notes__modal",
+				"book-notes__modal__text"
+			],
+			[
+				"epub",
+				"epubBody"
+			],
+			[
+				"vali",
+				"validSelection"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"valid",
+				"validSelection"
+			],
+			[
+				"cre",
+				"createUserSelection"
+			],
+			[
+				"data",
+				"dataNode"
+			],
+			[
+				"style",
+				"stylesAux"
+			],
+			[
+				"sty",
+				"stylesAux"
+			],
+			[
+				"div",
+				"divSelector"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"epu",
+				"epubBody"
+			],
+			[
+				"insert",
+				"insertAuxElements"
+			],
+			[
+				"parentE",
+				"parentElement"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"paren",
+				"parentEl"
+			],
+			[
+				"paret",
+				"parentEl"
+			],
+			[
+				"isJun",
+				"isJunkedNode	generatePath_new.js"
+			],
+			[
+				"tm",
+				"tmpReferenceOfSelection"
+			],
+			[
+				"remo",
+				"removeAllRanges"
+			],
+			[
+				"lastSe",
+				"lastSelection"
+			],
+			[
+				"ran",
+				"rangeCount"
+			],
+			[
+				"offe",
+				"offsetNode"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"offset",
+				"offsetNode"
+			],
+			[
+				"name",
+				"nameExtracted"
+			],
+			[
+				"chap",
+				"chapterMetaInfo"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"pre",
+				"previousSibling"
+			],
+			[
+				"cus",
+				"customNote"
+			],
+			[
+				"hide",
+				"hideModals"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cle",
+				"cleanDOMOfSelections"
+			],
+			[
+				"content",
+				"textContent"
+			],
+			[
+				"clone",
+				"cloneArrayDeeply"
+			],
+			[
+				"range",
+				"rangeCount"
+			],
+			[
+				"end",
+				"endNodeInfo"
+			],
+			[
+				"con",
+				"contentEditable"
+			],
+			[
+				"firs",
+				"firstNodeInfo"
+			],
+			[
+				"spl",
+				"splittedValues"
+			],
+			[
+				"ep",
+				"epubDOM"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"Notes",
+				"NotesManager"
+			],
+			[
+				"option",
+				"optionModal"
+			],
+			[
+				"No",
+				"NotesManager"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"lo",
+				"lowerBoundPercentage"
+			],
+			[
+				"f",
+				"fi	for in"
+			],
+			[
+				"path",
+				"paths"
+			],
+			[
+				"bas",
+				"baseOffset"
+			],
+			[
+				"selection",
+				"selectionListeners"
+			],
+			[
+				"boo",
+				"bookUMC"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 645,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"purge",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgrea",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"upgar",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Snippet: log",
+				"Snippet: log"
+			],
+			[
+				"Snippet: lo",
+				"Snippet: log"
+			],
+			[
+				"Snippet: ",
+				"Snippet: prototype"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Beautify::Beautify File"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"git commi",
+				"Git: Commit history"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 134.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/init/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/views/workspace-bloq.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/components/dropdown/js/dropdown.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/templates/workspace-console.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/css/_workspace.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/layout/workspace.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/components/panel/html/panel.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/components/panel/css/_panel.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/styles.scss",
+		"/home/smorcuend/bqprojects/bitbloq/bower.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/css/_workspace-bloq.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/wizard/views/recent.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-code/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-project-info/css/_project-info.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-code/css/_workspace-code.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/header/css/_header.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/header/templates/header.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/header/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/explore/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/_pages/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/components/form/css/_form.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/_pages/css/_pages.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/_pages/layouts/home.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/index.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/components/form/html/form.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/templates/workspace-bloq.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/c-app-manager/views/c-app-manager.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/c-app-manager/templates/c-app-manager.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/c-app-manager/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/landing-content/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/css/main.scss",
+		"/home/smorcuend/bqprojects/bitbloq/node_modules/grunt-corejs-build/lib/gruntApp.js",
+		"/home/smorcuend/.config/sublime-text-2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/smorcuend/bqprojects/bitbloq/target/staging/css/main.css",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/css/new_file",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/res/config.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/css/workspace.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/css/_workspace-console.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/prism.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/define.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/roboblocks/dist/roboblocks.min.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/roboblocks/dist/roboblocks.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/loader.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/blockly-bq/core/css.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/blockly-bq/core/toolbox.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/blockly-bq/blockly_compressed.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/blockly-bq/blockly_uncompressed.js",
+		"/home/smorcuend/bqprojects/bitbloq/.editorconfig",
+		"/home/smorcuend/bqprojects/bitbloq/pom.xml",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/c-app-manager/start.js",
+		"/home/smorcuend/acpi",
+		"/home/smorcuend/backlight",
+		"/home/smorcuend/brightness problem/vendorbacklight",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/roboblocks/Gruntfile.js",
+		"/home/smorcuend/bqprojects/roboblocks/dist/roboblocks.js",
+		"/home/smorcuend/Desktop/toolbox.xml",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/tab-workspace/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/tab-workspace/layout/tab-workspace.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/tab-workspace/templates/tab-workspace.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/roboblocks/README.md",
+		"/home/smorcuend/.config/sublime-text-2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/res/config/config.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/views/workspace-console.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/form-reset/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/lib/actions.js",
+		"/home/smorcuend/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/explore/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/header/layout/header.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/open/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/table-projects/views/table-projects-item.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/chromeAppManager/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/corejs/scripts/engine/logger.js",
+		"/home/smorcuend/.cache/.fr-8Yf3QN/leonderijke-jQuery-Modern-Blink-21107b1/jquery.modern-blink.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/components/panel/css/_panel.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/components/_variables.scss",
+		"/home/smorcuend/untitled",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/form-login/views/form-login.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-bloq/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/my-projects/views/actions-projects.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace-console/res/config.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/my-projects/templates/actions-projects.html",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/my-projects/css/_my-projects.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/tags/views/tags.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/form-forgot/views/form-forgot.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/form-account/views/form-account.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/tab-workspace/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/bower.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/bower_components/kiui/.bower.json",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/components/panel/_panel.scss",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/workspace/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/_pages/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/layoutManager/layoutManager.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/lib/zoom.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/my-projects/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/_pages/start.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/wizard/controller.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/lib/workspace.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/res/blocks.json",
+		"/home/smorcuend/bqprojects/bitbloq/package.json",
+		"/home/smorcuend/WEB VIEWER/epubs/kkk/para_visor/261/9788423334261.epub_FILES/mimetype",
+		"/home/smorcuend/EPUBS/epub3-samples/accessible_epub_3-20121024.epub_FILES/mimetype",
+		"/home/smorcuend/Desktop/passwd_wifi_ciudadR_bq",
+		"/home/smorcuend/Desktop/blink_leds.inocompiled",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/navigation-workspace/views/navigation-workspace.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/lib/program.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/test/selenium/spec/compile.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/test/selenium/spec/open.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/test/selenium/spec/save.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/save-as/views/save-as.js",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/modules/save-code/views/save-code.js",
+		"/home/smorcuend/.config/sublime-text-2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/smorcuend/.config/sublime-text-2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/smorcuend/.config/sublime-text-2/Packages/JSHint Gutter/.jshintrc",
+		"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css/theme/components/modal/css/_modal.scss",
+		"/home/smorcuend/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/smorcuend/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/smorcuend/.cache/.fr-kZiASR/package/package.json",
+		"/home/smorcuend/Desktop/AWS Enviroments",
+		"/home/smorcuend/Desktop/untitled",
+		"/tmp/functions.php",
+		"/home/smorcuend/.cache/.fr-V8PCIm/getstarted/manifest.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/css",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp/scripts",
+			"/home/smorcuend/bqprojects/bitbloq/src/main/webapp",
+			"/home/smorcuend/bqprojects/bitbloq/main/webapp",
+			"/home/smorcuend/bqprojects/bitbloq/",
+			"/home/smorcuend/bqprojects/bitbloq/main/",
+			"/home/smorcuend/bqprojects/bitbloq/main/webapp",
+			"/home/smorcuend/bqprojects/bitbloq",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main/webapp",
+			"/home/smorcuend/bqprojects/books-web-viewer/target/viewer/css",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main/webapp/",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main/webapp",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main/",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/main/webapp/",
+			"",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/test",
+			"",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/tmp/sass_cache",
+			"",
+			"/home/smorcuend/bqprojects/books-web-viewer/src/target/viewer/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\\\n",
+			"chrome",
+			"workspace-footer",
+			"nav__menu__link--rounded",
+			"zoom",
+			"class=\"zoom",
+			"zoom",
+			"undoredo",
+			".undoredo",
+			"icon-text--right",
+			"form--account",
+			"class=\"form--account",
+			"form--account",
+			"nav__submenu__item",
+			"project__tags",
+			"nav__submenu__item",
+			"nav__menu__link--rounded",
+			"img--beta",
+			"bitbloq--home",
+			".bitbloq--home",
+			"saved-at",
+			"data-content=\"workspace\"",
+			"class=\"logo",
+			"logo",
+			".img-container",
+			"class=\"img-container\"",
+			"img-container",
+			"nav__menu__link--rounded",
+			"class=\"logo\"",
+			"class=\"header\"",
+			"header",
+			"#",
+			"id=\"file\"",
+			"#file",
+			"data-content=\"workspace\"",
+			"workspace-bloq",
+			"compass",
+			"blocklyToolboxDiv",
+			"save__actionbar__input",
+			"load(",
+			"roboblocks",
+			"/*!",
+			"}\n",
+			"RoboBlocks",
+			"Robo",
+			"roboblocks",
+			"    .category--variables{\n        background-color: #C222B0;\n    }",
+			"treeitem",
+			"blockly-bq",
+			"blockly_compressed",
+			"compressed",
+			"blocks_compressed",
+			"cssItemLabel",
+			"blocklyTreeLabel",
+			"syncTrees",
+			"cssTreeIcon",
+			"blocklyTreeIcon",
+			"app.resources",
+			"img/blocks/",
+			"CustomBlocks",
+			"Customblocks",
+			"zoom",
+			"options",
+			"load",
+			"roboblocks",
+			"Roboblocks",
+			"Roboblocks.load",
+			"roboblocks.load",
+			"roboblocks",
+			"[role=\"treeitem\"]",
+			"[role=\"treeitem\"]:nth-child(2)",
+			"blocklyTreeRow",
+			"Blockly",
+			"Blocks",
+			"BlocklyLang",
+			"roboblocks",
+			"Blocks",
+			"workspace-bloq",
+			"[data-content=\"workspace\"]",
+			"view:workspace-bloq:show",
+			"tab-bloq",
+			"view:workspace-bloq:show",
+			"console.log",
+			"log",
+			"logger",
+			"createToolbox",
+			"workspace-block:inject",
+			"createToolbox",
+			" Blockly.createToolbox",
+			"inject",
+			"blockly",
+			"blockly.Blocks.",
+			"blockly.blocks.",
+			"blockly",
+			"blocks",
+			"res/blocks",
+			"blocks",
+			"getParams",
+			"params",
+			"console.log",
+			"app.reqres",
+			"goog.asserts.AssertionError",
+			"wizard",
+			"--selected",
+			"selected",
+			"port",
+			"chromeapp-noboard",
+			"nodetect",
+			"resourcesEndpoint",
+			"appName",
+			"resourcesEndpoint",
+			"console.log(",
+			"compiler:message",
+			"board:ready",
+			"-compilation-",
+			"$.t",
+			"t.",
+			"int",
+			"\n",
+			"int",
+			"$panel-padding",
+			"data-bypass",
+			"stopP",
+			"stop",
+			"click [",
+			"resize",
+			"app.commands",
+			"view:workspace-resize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"\"",
+			"\\n",
+			"'",
+			"OpenLayout",
+			"'",
+			"OpenLayout",
+			"open",
+			"ProjectsPublicView",
+			"ProjectsExplorerLayout",
+			"-xs-",
+			"-md-",
+			"notes",
+			"createUserSelectionListeners",
+			"createUserSelection",
+			"223",
+			"+'",
+			"'+",
+			"+'",
+			"'+",
+			"showOptionsModal",
+			"getSel",
+			"172.16.30.119",
+			"isCollapsed",
+			"172.16.30.119",
+			"192.168.1.58",
+			"(parent.nodeName === 'SPAN' || parent.nodeName === 'FONT')",
+			"119",
+			"172.16.30.223",
+			"lastNodesSelectionInserted[i]",
+			"notes",
+			"'",
+			"ownerDocument",
+			"content2TrackRef",
+			"paintNotes",
+			"book-notes",
+			".book-notes",
+			"book-notes",
+			".book-notes",
+			"stepInfo",
+			"addBookmark",
+			"localhost",
+			"172.16.30.223",
+			"localhost",
+			"172.16.30.246",
+			"'",
+			"settingsStyleSheet",
+			"sizeFontSteps",
+			"setScreenSize",
+			"getScreenSize",
+			"screenHeight",
+			"screenWidthSize",
+			"sizeFontSteps",
+			"settings.sizeFont",
+			"settings.fontFamily",
+			"settings.lineHeight",
+			"settings.widthPage",
+			"settings.numCols",
+			"bookSettings.numCols",
+			"bookSettings.widthPage",
+			"bookSettings.sizeFont",
+			"bookSettings.lineHeight",
+			"bookSettings.fontFamily",
+			"'",
+			"detectScreenWidth",
+			".book-settings__progress",
+			"_progress",
+			"$",
+			"$progressBar",
+			"$progressValue",
+			"$value",
+			"$obj",
+			"$component",
+			"$button",
+			"$container",
+			"template",
+			"$title",
+			"template",
+			"$container",
+			"$value.",
+			"$button.",
+			"$progressBar",
+			"_updateLastReference()",
+			"_updateLastReference",
+			"updateLastReference",
+			"wvConfig.modalTitles.support",
+			"styles();",
+			"updateSettings",
+			"remove",
+			"set",
+			"$container",
+			"$obj",
+			"[data-icon=",
+			"]:before {",
+			"[data-icon=",
+			"",
+			"book-settings:remove",
+			"book-settings:set",
+			"book-notes",
+			"",
+			"]:before",
+			"[data-icon=",
+			"customEpubStyleSheet",
+			"mainStyleSheet",
+			"changeState",
+			"changeStatus",
+			"lastChInfo",
+			"data",
+			"lastStepInfo",
+			"lastStepMetaInfo",
+			"lastChMetaInfo",
+			"lastCurrentStepMetaInfo",
+			"2s",
+			"$obj.",
+			"lastCurrentChapterMetaInfo",
+			"lastCurrentChapterPos",
+			"'",
+			"⇑",
+			"trackTimerObj",
+			"",
+			"'",
+			"===",
+			"'",
+			"",
+			"}}",
+			"{{",
+			"<%= data.",
+			"http://localhost"
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Blink_fast":
+	{
+		"height": 124.0
+	},
+	"output.blink":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 50.0
+	},
+	"output.find_results":
+	{
+		"height": 314.0
+	},
+	"output.git":
+	{
+		"height": 204.0
+	},
+	"output.gjslint_result_view":
+	{
+		"height": 148.0
+	},
+	"output.markdown":
+	{
+		"height": 65.0
+	},
+	"output.stino_log":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/smorcuend/bqprojects/blockly/blockly.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}

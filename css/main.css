@@ -1,0 +1,439 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+
+/* --------------------------------------------------------- */
+/* SMARTPHONES, TABLETS & TINY DESKTOPS -------------------- */
+/* --------------------------------------------------------- */
+
+/* Old Smartphones (portrait and landscape) ---------------- */
+@media only screen and (min-device-width: 240px) and (max-device-width: 320px) {
+    /* YOUR STYLES */
+}
+
+/* Old Smartphones (e.g. portrait) ------------------------- */
+@media only screen and (max-width: 319px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones (portrait and landscape) -------------------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones (portrait) & Old SP (landscape) ------------- */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones (landscape) & Old Tablets (Portrait) -------- */
+@media only screen and (min-width: 480px) and (max-width: 639px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones & Tablets (portrait & landscape) ------------ */
+@media only screen and (min-device-width: 640px) and (max-device-width: 960px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones & Tablets (portrait) & Tiny Desktops -------- */
+@media only screen and (min-width: 640px) and (max-width: 799px) {
+    /* YOUR STYLES */
+}
+
+/* Smartphones & Tablets (landscape) & Splitted Desktops --- */
+@media only screen and (min-width: 800px) and (max-width: 1000px) {
+    /* YOUR STYLES */
+}
+
+
+/* --------------------------------------------------------- */
+/* DEVICES BY RATIO ---------------------------------------- */
+/* --------------------------------------------------------- */
+
+/* LowRes (e.g. 240x320 / 320x480) ------------------------- */
+@media only screen and (min--moz-device-pixel-ratio: 0.75), only screen and (-o-min-device-pixel-ratio: 3/4), only screen and (-webkit-min-device-pixel-ratio: 0.75), only screen and (min-device-pixel-ratio: 0.75), only screen and (min-resolution: 0.75dppx) {
+    /* YOUR STYLES */
+}
+
+
+/* HighRes ------------------------------------------------- */
+@media only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    /* YOUR STYLES */
+
+    /* e.g. HighRes Logo (use _2x as extension for double-sized images) */
+    /* .logo {background-image: url(logo_2x.png); background-size: 50%;} */
+}
+
+/* RetinaRes Smartphones (e.g. iPhone 4 / portrait) -------- */
+@media only screen and (min--moz-device-pixel-ratio: 1.5) and (orientation: portrait), only screen and (-o-min-device-pixel-ratio: 3/2) and (orientation: portrait), only screen and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: portrait), only screen and (min-device-pixel-ratio: 1.5) and (orientation: portrait), only screen and (min-resolution: 1.5dppx) and (orientation: portrait) {
+    /* YOUR STYLES */
+}
+
+/* RetinaRes Smartphones (e.g. iPhone 4 / landscape) ------- */
+@media only screen and (min--moz-device-pixel-ratio: 1.5) and (orientation: landscape), only screen and (-o-min-device-pixel-ratio: 3/2) and (orientation: landscape), only screen and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: landscape), only screen and (min-device-pixel-ratio: 1.5) and (orientation: landscape), only screen and (min-resolution: 1.5dppx) and (orientation: landscape) {
+    /* YOUR STYLES */
+}
+
+
+/* --------------------------------------------------------- */
+/* IPADS --------------------------------------------------- */
+/* --------------------------------------------------------- */
+
+/* iPads (portrait and landscape) -------------------------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* YOUR STYLES */
+}
+
+/* iPads (portrait) ---------------------------------------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* YOUR STYLES */
+}
+
+/* iPads (landscape) --------------------------------------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    /* YOUR STYLES */
+}
+
+/* iPad Retina (iPad 3; portrait and landscape) ------------ */
+@media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (min--moz-device-pixel-ratio: 2), only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (min-device-pixel-ratio: 2), only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (min-resolution: 2dppx) {
+    /* YOUR STYLES */
+}
+
+
+/* --------------------------------------------------------- */
+/* COMPUTERS / OTHER DEVICES ------------------------------- */
+/* --------------------------------------------------------- */
+
+/* Displays/Screens (e.g. MacBook @ 1280x800) -------------- */
+@media only screen and (min-width: 1250px) and (max-width: 1409px) {
+    /* YOUR STYLES */
+}
+
+/* Displays/Screens (e.g. 19" WS @ 1440x900) --------------- */
+@media only screen and (min-width: 1410px) and (max-width: 1649px) {
+    /* YOUR STYLES */
+}
+
+/* Displays/Screens (e.g. 22" WS @ 1680x1050) -------------- */
+@media only screen and (min-width: 1650px) and (max-width: 1889px) {
+    /* YOUR STYLES */
+}
+
+ /* Displays/Screens (e.g. 24" WS @ 1920x1080) -------------- */
+@media only screen and (min-width: 1890px) and (max-width: 2529px) {
+    /* YOUR STYLES */
+}
+
+/* Really Large Displays/Screens (e.g. 2560x1440) ---------- */
+@media only screen and (min-width: 2530px) {
+    /* YOUR STYLES */
+}
+
+/* --------------------------------------------------------- */
+/* APPLE MACBOOK PRO RETINA ETC. --------------------------- */
+/* --------------------------------------------------------- */
+
+/* Retina Displays/Screens (2880x1800) --------------------- */
+@media only screen and (min--moz-device-pixel-ratio: 2),only screen and (-o-min-device-pixel-ratio: 2/1),only screen and (-webkit-min-device-pixel-ratio: 2),only screen and (min-device-pixel-ratio: 2),only screen and (min-resolution: 2dppx) {
+    /* YOUR STYLES */
+}
+
+
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
